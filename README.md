@@ -35,27 +35,6 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,mui,redux,vite,git,github,vscode,figma" />
-</div>
-
-<br/>
-
-<div align="center">
-
-**Frontend:** React, Next.js, TypeScript, Redux Toolkit, Context API, React Router  
-**Styling/UI:** Tailwind CSS, MUI, Metronic, Responsive Design  
-**Data & APIs:** Axios, REST APIs, i18next, ApexCharts, Recharts  
-**Tooling:** Vite, npm, GitHub  
-**Testing:** React Testing Library, Jest  
-
-</div>
-
-<hr/>
-
-<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
-<br/>
-
-<div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,react,redux,nextjs,tailwind,materialui,gsap,apexcharts,vite" />
 </div>
 
@@ -72,10 +51,6 @@
 **Languages:** JavaScript ES6+, TypeScript  
 
 </div>
-
-<br/>
-<hr/>
-
 
 <br/>
 <hr/>
