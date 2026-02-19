@@ -53,13 +53,6 @@
 </div>
 
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AmirmahdiHakkari/AmirmahdiHakkari/output/github-contribution-grid-snake.svg" />
-</div>
 
 <hr/>
 
