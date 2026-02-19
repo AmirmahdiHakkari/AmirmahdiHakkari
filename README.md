@@ -1,76 +1,78 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AmirmahdiHakkari.AmirmahdiHakkari" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amirmahdi+Hakkari!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amirmahdi+Hakkari;Frontend+Developer;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">Frontend Developer specialized in React & Next.js</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+🔭 I’m currently working on **insurance and BNPL platforms**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+🌱 I’m currently improving **Next.js architecture and frontend scalability**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💬 Ask me about **React, Next.js, TypeScript, or frontend architecture**
 
- </div>
+⚡ Focused on building **scalable, multilingual, responsive web applications**
+
+</div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:amirmahdi.hakkari.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/amirmahdi-hakkari/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://github.com/AmirmahdiHakkari" target="_blank">
+     <img src="https://img.shields.io/badge/GitHub-FF5722?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<hr/>
+
+<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
 <br/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,mui,redux,vite,git,github,vscode,figma" />
+</div>
+
+<br/>
+
+<div align="center">
+
+**Frontend:** React, Next.js, TypeScript, Redux Toolkit, Context API, React Router  
+**Styling/UI:** Tailwind CSS, MUI, Metronic, Responsive Design  
+**Data & APIs:** Axios, REST APIs, i18next, ApexCharts, Recharts  
+**Tooling:** Vite, npm, GitHub  
+**Testing:** React Testing Library, Jest  
+
 </div>
 
 <br/>
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AmirmahdiHakkari/AmirmahdiHakkari/output/github-contribution-grid-snake.svg" />
 </div>
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AmirmahdiHakkari&theme=react&border_radius=10" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=AmirmahdiHakkari&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+  <br/>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirmahdiHakkari&layout=compact&theme=react&border_radius=10" />
 </div>
 
 <br/>
