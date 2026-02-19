@@ -50,6 +50,33 @@
 
 </div>
 
+<hr/>
+
+<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
+<br/>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,react,redux,nextjs,tailwind,materialui,gsap,apexcharts,vite" />
+</div>
+
+<br/>
+
+<div align="center">
+
+**Frontend / Frameworks:** React.js, React Router, React Context API, React Redux (Toolkit), React Hook Form, React Formik, Next.js (App Router / Pages Router), SSR, SSG, 118Next  
+
+**Styling / UI:** HTML, CSS3, SCSS, Tailwind CSS, MUI, Responsive Design  
+
+**Tools / Testing / Animation:** Vite, Unit Testing, GSAP, ApexCharts  
+
+**Languages:** JavaScript ES6+, TypeScript  
+
+</div>
+
+<br/>
+<hr/>
+
+
 <br/>
 <hr/>
 
