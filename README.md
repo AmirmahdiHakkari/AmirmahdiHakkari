@@ -11,11 +11,12 @@
 <div align="center">
 ⚡ Problem solver & clean coder
 
+💡 Always looking for innovative solutions
+
 🌟 Passionate about scalable and maintainable code
 
-🚀 Quick learner & proactive team player
+🚀 I am interested in learning and active in teamwork.
 
-💡 Always looking for innovative solutions
 </div>
  
 <div align="center"> 
