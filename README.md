@@ -27,9 +27,6 @@
   <a href="https://www.linkedin.com/in/amirmahdi-hakkari/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/AmirmahdiHakkari" target="_blank">
-     <img src="https://img.shields.io/badge/GitHub-FF5722?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </div>
 
 <hr/>
