@@ -35,7 +35,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,react,redux,nextjs,tailwind,materialui,gsap,apexcharts,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,react,redux,nextjs,tailwind,materialui,gsap,apexcharts,vite,formik,hookform" />
 </div>
 
 <br/>
