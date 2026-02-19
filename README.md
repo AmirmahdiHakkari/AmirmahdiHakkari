@@ -9,15 +9,13 @@
 <br/>
 
 <div align="center">
- 
-🔭 I’m currently working on **insurance and BNPL platforms**
+⚡ Problem solver & clean coder
 
-🌱 I’m currently improving **Next.js architecture and frontend scalability**
+🌟 Passionate about scalable and maintainable code
 
-💬 Ask me about **React, Next.js, TypeScript, or frontend architecture**
+🚀 Quick learner & proactive team player
 
-⚡ Focused on building **scalable, multilingual, responsive web applications**
-
+💡 Always looking for innovative solutions
 </div>
  
 <div align="center"> 
